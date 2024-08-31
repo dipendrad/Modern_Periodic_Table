@@ -31,4 +31,11 @@ The program shows the block (s, p, d, f) and property (Metal, Non-Metal, Metallo
 
 ![Alt text](https://github.com/dipendrad/Modern_Periodic_Table/blob/00f6f2f9abfd01dc9b72217fa004191f4b6807cc/Screenshot_20240831-115040.png)
 
+![Screenshot 1](https://github.com/dipendrad/Modern_Periodic_Table/blob/8903c67dc04b7bea1407846832758221ad1320ab/Screenshot_20240831-115204.png)
+
+![Screenshot 2](https://github.com/dipendrad/Modern_Periodic_Table/blob/8903c67dc04b7bea1407846832758221ad1320ab/Screenshot_20240831-115142.png)
+
+![Screenshot 3](https://github.com/dipendrad/Modern_Periodic_Table/blob/8903c67dc04b7bea1407846832758221ad1320ab/Screenshot_20240831-115247.png)
+
+
 
