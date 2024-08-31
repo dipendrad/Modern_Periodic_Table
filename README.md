@@ -28,3 +28,7 @@ Enter the atomic weight to find the element.
   
 The program shows the block (s, p, d, f) and property (Metal, Non-Metal, Metalloid, etc.) of the element.
 
+
+![Alt text](https://github.com/dipendrad/Modern_Periodic_Table/blob/00f6f2f9abfd01dc9b72217fa004191f4b6807cc/Screenshot_20240831-115040.png)
+
+
